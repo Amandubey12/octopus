@@ -125,6 +125,7 @@ font-weight: 700;
 }
 .looking{
     display: flex;
+    margin-left: 100px;
     
 }
 .both{
